@@ -1,15 +1,15 @@
 # sort-lines-in-files
 First, the program creates all the folders [a-z0-9] and inside of them creates more folders like [a-zA-Z0-9][a-z0-9].
-![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/main/Images/CreateFolders.png?raw=true)
+![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/master/Images/CreateFolders.png?raw=true)
 
 
 Second, the program creates all the files [a-z0-9][a-zA-Z0-9][a-z0-9] inside the subfolders.
-![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/main/Images/CreateFiles.png?raw=true)
+![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/master/Images/CreateFiles.png?raw=true)
 
 
 Third, reads each line of all the files inside a folder (recursive) and classify them inside the files that has been created before.
   To clasify them, catch the first 3 characters of each line.
-![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/main/Images/SortLines.png?raw=true)
+![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/master/Images/SortLines.png?raw=true)
 
 
 If there is any character different from [a-zA-Z0-9], it is replaced by the string "symbol".
