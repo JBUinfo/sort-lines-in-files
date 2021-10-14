@@ -157,7 +157,7 @@ namespace SortLinesFiles
                 }
             }
 
-            for (int i = 0; i < myword1.Length; i++)
+            for (int i = 0; i < myword1.Length; i++) 
             {
                 a = myword1[i].ToString();
                 using (File.Create(path2Write + "symbol/symbolsymbol/symbolsymbol" + a)) ;
