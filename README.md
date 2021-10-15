@@ -1,9 +1,9 @@
 # sort-lines-in-files
-First, the program creates all the folders [a-z0-9] and inside of them creates more folders like [a-zA-Z0-9][a-z0-9].
+First, the program creates all the folders [a-z0-9] and inside of them creates more folders like [a-z0-9][a-z0-9].
 ![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/master/Images/CreateFolders.png?raw=true)
 
 
-Second, the program creates all the files [a-z0-9][a-zA-Z0-9][a-z0-9] inside the subfolders.
+Second, the program creates all the files [a-z0-9][a-z0-9][a-z0-9] inside the subfolders.
 ![alt text](https://github.com/JBUinfo/sort-lines-in-files/blob/master/Images/CreateFiles.png?raw=true)
 
 
